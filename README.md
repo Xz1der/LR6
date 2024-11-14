@@ -26,5 +26,5 @@
 ## Форк репозитория LR6
 1. Переходим на страницу репозитория [LR6](https://github.com/Kurtyanik/LR6/)
 2. Нажимаем кнопку "Fork" в правом верхнем углу страницы.
-[Fork](https://github.com/Xz1der/LR6/blob/master/1.png)
+[Fork](1.png)
 ## Установка Git
